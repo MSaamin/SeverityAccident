@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'SeverityAccident1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0EF798AA496C422D9738F9DD4584C67F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_92AE5003388E46C7A89F0EE07A86C578 }}
